@@ -1,0 +1,500 @@
+1
+New York City; New York	
+8,175,133
+8,336,697
+161,564
+2
+Los Angeles; California	
+3,792,621
+3,857,799
+65,178
+3
+Chicago; Illinois	
+2,695,598
+2,714,856
+19,258
+4
+Houston; Texas	
+2,099,451
+2,160,821
+61,370
+5
+Philadelphia; Pennsylvania	
+1,526,006
+1,547,607
+21,601
+6
+Phoenix; Arizona	
+1,445,632
+1,488,750
+43,118
+7
+San Antonio; Texas	
+1,327,407
+1,382,951
+55,544
+8
+San Diego; California	
+1,307,402
+1,338,348
+30,946
+9
+Dallas; Texas	
+1,197,816
+1,241,162
+43,346
+10
+San Jose; California	
+945,942
+982,765
+36,823
+11
+Austin; Texas	
+790,390
+842,592
+52,202
+12
+Jacksonville; Florida	
+821,784
+836,507
+14,723
+13
+Indianapolis; Indiana	
+820,445
+834,852
+14,407
+14
+San Francisco; California	
+805,235
+825,863
+20,628
+15
+Columbus; Ohio	
+787,033
+809,798
+22,765
+16
+Fort Worth; Texas	
+741,206
+777,992
+36,786
+17
+Charlotte; North Carolina	
+731,424
+775,202
+43,778
+18
+Detroit; Michigan	
+713,777
+701,475
+-12,302
+19
+El Paso; Texas	
+649,121
+672,538
+23,417
+20
+Memphis; Tennessee	
+646,889
+655,155
+8,266
+21
+Boston; Massachusetts	
+617,594
+636,479
+18,885
+22
+Seattle; Washington	
+608,660
+634,535
+25,875
+23
+Denver; Colorado	
+600,158
+634,265
+34,107
+24
+Washington; DC	
+601,723
+632,323
+30,600
+25
+Nashville-Davidson; Tennessee	
+601,222
+624,496
+23,274
+26
+Baltimore; Maryland	
+620,961
+621,342
+381
+27
+Louisville/Jefferson; Kentucky	
+597,337
+605,110
+7,773
+28
+Portland; Oregon	
+583,776
+603,106
+19,330
+29
+Oklahoma ; Oklahoma	
+579,999
+599,199
+19,200
+30
+Milwaukee; Wisconsin	
+594,833
+598,916
+4,083
+31
+Las Vegas; Nevada	
+583,756
+596,424
+12,668
+32
+Albuquerque; New Mexico	
+545,852
+555,417
+9,565
+33
+Tucson; Arizona	
+520,116
+524,295
+4,179
+34
+Fresno; California	
+494,665
+505,882
+11,217
+35
+Sacramento; California	
+466,488
+475,516
+9,028
+36
+Long Beach; California	
+462,257
+467,892
+5,635
+37
+Kansas ; Missouri	
+459,787
+464,310
+4,523
+38
+Mesa; Arizona	
+439,041
+452,084
+13,043
+39
+Virginia Beach; Virginia	
+437,994
+447,021
+9,027
+40
+Atlanta; Georgia	
+420,003
+443,775
+23,772
+41
+Colorado Springs; Colorado	
+416,427
+431,834
+15,407
+42
+Raleigh; North Carolina	
+403,892
+423,179
+19,287
+43
+Omaha; Nebraska	
+408,958
+421,570
+12,612
+44
+Miami; Florida	
+399,457
+413,892
+14,435
+45
+Oakland; California	
+390,724
+400,740
+10,016
+46
+Tulsa; Oklahoma	
+391,906
+393,987
+2,081
+47
+Minneapolis; Minnesota	
+382,578
+392,880
+10,302
+48
+Cleveland; Ohio	
+396,815
+390,928
+-5,887
+49
+Wichita; Kansas	
+382,368
+385,577
+3,209
+50
+Arlington; Texas	
+365,438
+375,600
+10,162
+51
+New Orleans; Louisiana	
+343,829
+369,250
+25,421
+52
+Bakersfield; California	
+347,483
+358,597
+11,114
+53
+Tampa; Florida	
+335,709
+347,645
+11,936
+54
+Honolulu; Hawaii	
+337,256
+345,610
+8,354
+55
+Anaheim; California	
+336,265
+343,248
+6,983
+56
+Aurora; Colorado	
+325,078
+339,030
+13,952
+57
+Santa Ana; California	
+324,528
+330,920
+6,392
+58
+St. Louis; Missouri	
+319,294
+318,172
+-1,122
+59
+Riverside; California	
+303,871
+313,673
+9,802
+60
+Corpus Christi; Texas	
+305,215
+312,195
+6,980
+61
+Pittsburgh; Pennsylvania	
+305,704
+306,211
+507
+62
+Lexington-Fayette; Kentucky	
+295,803
+305,489
+9,686
+63
+Anchorage municipality, Alaska	
+291,826
+298,610
+6,784
+64
+Stockton; California	
+291,707
+297,984
+6,277
+65
+Cincinnati; Ohio	
+296,943
+296,550
+-393
+66
+St. Paul; Minnesota	
+285,068
+290,770
+5,702
+67
+Toledo; Ohio	
+287,208
+284,012
+-3,196
+68
+Newark; New Jersey	
+277,140
+277,727
+587
+69
+Greensboro; North Carolina	
+269,666
+277,080
+7,414
+70
+Plano; Texas	
+259,841
+272,068
+12,227
+71
+Henderson; Nevada	
+257,729
+265,679
+7,950
+72
+Lincoln; Nebraska	
+258,379
+265,404
+7,025
+73
+Buffalo; New York	
+261,310
+259,384
+-1,926
+74
+Fort Wayne; Indiana	
+253,691
+254,555
+864
+75
+Jersey ; New Jersey	
+247,597
+254,441
+6,844
+76
+Chula Vista; California	
+243,916
+252,422
+8,506
+77
+Orlando; Florida	
+238,300
+249,562
+11,262
+78
+St. Petersburg; Florida	
+244,769
+246,541
+1,772
+79
+Norfolk; Virginia	
+242,803
+245,782
+2,979
+80
+Chandler; Arizona	
+236,123
+245,628
+9,505
+81
+Laredo; Texas	
+236,091
+244,731
+8,640
+82
+Madison; Wisconsin	
+233,209
+240,323
+7,114
+83
+Durham; North Carolina	
+228,330
+239,358
+11,028
+84
+Lubbock; Texas	
+229,573
+236,065
+6,492
+85
+Winston-Salem; North Carolina	
+229,617
+234,349
+4,732
+86
+Garland; Texas	
+226,876
+233,564
+6,688
+87
+Glendale; Arizona	
+226,721
+232,143
+5,422
+88
+Hialeah; Florida	
+224,669
+231,941
+7,272
+89
+Reno; Nevada	
+225,221
+231,027
+5,806
+90
+Baton Rouge; Louisiana	
+229,493
+230,058
+565
+91
+Irvine; California	
+212,375
+229,985
+17,610
+92
+Chesapeake; Virginia	
+222,209
+228,417
+6,208
+93
+Irving; Texas	
+216,290
+225,427
+9,137
+94
+Scottsdale; Arizona	
+217,385
+223,514
+6,129
+95
+North Las Vegas; Nevada	
+216,961
+223,491
+6,530
+96
+Fremont; California	
+214,089
+221,986
+7,897
+97
+Gilbert town, Arizona	
+208,453
+221,140
+12,687
+98
+San Bernardino; California	
+209,924
+213,295
+3,371
+99
+Boise; Idaho	
+205,671
+212,303
+6,632
+100
+Birmingham; Alabama	
+212,237
+212,038
+-199
