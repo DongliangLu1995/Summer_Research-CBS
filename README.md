@@ -1,5 +1,5 @@
 # Summer_Research-CBS
-#This is my code for the research "How Lobbists Influence the Rule-making Process in Financial Regulation"
+#This is my code for the research "How Lobbists Influence the Rule-making Process in Financial Regulation" during May 2018 to August 2018
 
 
 
