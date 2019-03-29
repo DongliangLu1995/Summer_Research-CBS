@@ -5,7 +5,15 @@
 
 
 #Brief introduction(Ordered by letter order):
+#This is my code for the research "How Lobbists Influence the Rule-making Process in Financial Regulation"
+
+
+#Programs scraping data from the agencies website:
+
+#Brief introduction(Ordered by letter order):
+
 1. add_org_tag(434 lines): this program assigns the category(11 different kinds) to companies (like the companies belongs to government, law, financial, or something else) 
+
 2. bag_of_words(145 lines): this program extracts bags of words from comment's txt
 3. citation_original_comments(266 lines): this program compares citation content to original comments and to see if there's any similar parts
 4. classification(710 lines): this program uses different classifiers to see if using the features can give a good prediction to which rule the comments are from
@@ -21,7 +29,7 @@
 14. group_comments_SEC_version(686 lines): this program matches the the comments to the organizations they belong to 
 14. group_comments_SEC_version2(1004 lines): this program matches the the comments to the organizations they belong to with a higher accuracy
 15. group_meetings_SEC_version1(534 lines): this program deals with meetings and clean the names of organizations to a good format
-16. group_meetings_SEC_version2(787 lines): this program deals with meetings and clean the names of organizations to a good format with higher accuracy
+16. group_meetings_SEC_version1(787 lines): this program deals with meetings and clean the names of organizations to a good format with higher accuracy
 17. merge_citation_similarity_individual(172 lines): this program calculates individual's comments' similarity with the final rules
 18. merge_com_meet_SEC: this program merges the comments and meetings together
 19. merge_similarity_citation: this program merges citation with the other features
@@ -43,6 +51,14 @@
 35. SEC_comments_meeting(259 lines): this program downloads the SEC comments and meetings
 35. toy_example(167 lines): this program shows some similarity measure
 36. separate_paragraph_0-30(about 700 lines each): cleaning the final rule text and label each sentence the roles, and determine whether an organizations lobby successfully or not
+37. clean_SEC1: get the meetings record's companies' name done
+38. clean_SEC2: get the comments' companies' name done
+39. scraper_SEC: get the address of record
+40. scraper_SEC2: get the final rules
+41. scraper_SEC3: get the meeting and comments
+42. cluster_rule: cluster the rule according to bag of words model
+http://jeremykun.com/2013/10/28/optimism-in-the-face-of-uncertainty-the-ucb1-algorithm
+
 
 
 
